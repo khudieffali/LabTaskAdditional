@@ -1,0 +1,14 @@
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.AssemblyInfo.cs
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\bin\Debug\net6.0\LabTaskAddititonal.exe
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\bin\Debug\net6.0\LabTaskAddititonal.deps.json
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\bin\Debug\net6.0\LabTaskAddititonal.runtimeconfig.json
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\bin\Debug\net6.0\LabTaskAddititonal.dll
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\bin\Debug\net6.0\LabTaskAddititonal.pdb
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.dll
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\refint\LabTaskAddititonal.dll
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.pdb
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\LabTaskAddititonal.genruntimeconfig.cache
+D:\Praktikant\GarageTask\LabTaskAddititonal\LabTaskAddititonal\obj\Debug\net6.0\ref\LabTaskAddititonal.dll

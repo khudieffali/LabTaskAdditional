@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|d:\\praktikant\\garagetask\\labtaskaddititonal\\labtaskaddititonal\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094A45B-42AB-410A-B046-4839D985C8D6}|LabTaskAddititonal\\LabTaskAddititonal.csproj|solutionrelative:labtaskaddititonal\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Group.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Group.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Group.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Group.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:23:33.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Person.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Person.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Person.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:25:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Manager.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Manager.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Manager.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:24:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Employee.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Employee.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Employee.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:24:04.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Assistant.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Assistant.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Assistant.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Assistant.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:23:56.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Student.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Student.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Student.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:23:19.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Program.cs",
+              "RelativeDocumentMoniker": "LabTaskAddititonal\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTaskAddititonal\\LabTaskAddititonal\\Program.cs",
+              "RelativeToolTip": "LabTaskAddititonal\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:21:26.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
