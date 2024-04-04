@@ -10,6 +10,9 @@ namespace LabTaskAddititonal
     {
         public Manager(string name, int salary, bool isSuccessful) : base(name, salary, isSuccessful)
         {
+            Name = name;
+            Salary = salary;
+            IsSuccessful=isSuccessful;
         }
         public Manager()
         {
